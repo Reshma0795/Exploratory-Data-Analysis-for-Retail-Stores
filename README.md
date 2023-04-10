@@ -1,4 +1,4 @@
-### Project Title: Exploratory Data Analysis on SampleSuperstore Dataset
+### Project Title: Unveiling Insights: Exploring Retail Store Data to Improve Sales and Customer Experience
 
 ## Introduction:
 The SampleSuperstore dataset contains sales data of a fictitious company. In this project, we will perform exploratory data analysis to gain insights into the data and identify weak areas where the company can work to make a profit. We will also derive potential business problems that can be addressed through further analysis.
