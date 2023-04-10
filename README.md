@@ -5,9 +5,9 @@ The SampleSuperstore dataset contains sales data of a fictitious company. In thi
 
 ## Objectives:
 
-Perform exploratory data analysis on the SampleSuperstore dataset
-Identify weak areas where the company can work to make a profit
-Derive potential business problems that can be addressed through further analysis
+* Perform exploratory data analysis on the SampleSuperstore dataset
+* Identify weak areas where the company can work to make a profit
+* Derive potential business problems that can be addressed through further analysis
 
 ## Methods:
 
