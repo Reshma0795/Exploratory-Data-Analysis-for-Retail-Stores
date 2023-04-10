@@ -17,15 +17,6 @@ The SampleSuperstore dataset contains sales data of a fictitious company. In thi
 
 ## Expected Outcomes:
 
-Identification of weak areas where the company can work to make a profit, such as low-performing products or regions
-Derivation of potential business problems that can be addressed through further analysis, such as supply chain issues or customer satisfaction concerns
-Recommendations for actions to improve profitability and address business problems
-
-## Deliverables:
-
-* Exploratory data analysis report: This report will describe the methodology used, summarize the findings, and provide recommendations for action.
-* Data visualization: We will provide visualizations of the data in the report.
-* Code: We will provide the code used to perform the analysis, including data cleaning, data visualization, statistical analysis, and machine learning.
-
-## Conclusion:
-Through this project, we will gain insights into the SampleSuperstore dataset and identify potential areas for improvement. These insights can be used to make data-driven decisions and improve the profitability of the company.
+* Identification of weak areas where the company can work to make a profit, such as low-performing products or regions
+* Derivation of potential business problems that can be addressed through further analysis, such as supply chain issues or customer satisfaction concerns
+* Recommendations for actions to improve profitability and address business problems
